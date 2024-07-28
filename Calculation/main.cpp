@@ -4,6 +4,9 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "Ikkichilar" << endl;
+    cout << "Qovunlar" << endl;
+    cout << "Nma gap" << endl;
+    cout << "Harakat qilinglar" << endl;
     return 0;
 }
